@@ -24,3 +24,10 @@
     margin: 0px auto;
     width: 700px;
 }
+#card {
+    display: block;
+    margin: 0px auto;
+}
+#card-title {
+    color: burlywood;
+}
