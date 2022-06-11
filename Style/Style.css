@@ -1,0 +1,26 @@
+#body {
+    background-image: url(https://wallpapercave.com/wp/wp8635969.jpg);
+}
+#header {
+    text-align: center;
+}
+
+.container-fluid {
+    margin: 0 auto;
+}
+#carouselExampleFade {
+    padding: auto;
+}
+#h1 {
+    text-align: center;
+    color: burlywood;
+}
+#p {
+    text-align: center;
+    color: white;
+}
+#img {
+    display: block;
+    margin: 0px auto;
+    width: 700px;
+}
