@@ -3,6 +3,8 @@
 }
 #header {
     text-align: center;
+    display: block;
+    margin: 0px auto;
 }
 
 .container-fluid {
